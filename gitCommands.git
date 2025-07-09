@@ -1,0 +1,25 @@
+vi fileName - used to edit,create,add, to create a file and to open vi editor
+to put the spaces in filename, we have to put double quotes
+Press i to enter insert mode when its in command mode
+esp is to exit from insert mode and to come to command mode
+:wq - to save and exit
+:q - quit
+:x - save and exit
+pwd - present working directory
+init
+congig
+git remote add  origin(name) url
+push
+pull
+rm -rf folder
+rm filename
+ls
+touch - to create an empty file
+cat filename - to add data in the file and to view the data into the file.
+cat > filename - to create a file and add data into it(cntrl d - to save and exit data entry from this file)
+touch - to create an empty file
+
+
+mv filename(is uded to move) foldername(to here)
+cntrl + d to save and exit from cat
+cat >> filename - to append data to the file
